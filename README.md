@@ -23,10 +23,12 @@ Venho por meio desse projeto, inicializar a minha "biblioteca virtual", onde ire
 ![Status](https://img.shields.io/badge/status-finalizado-brightgreen)
 
 <p align="center">──────────────</p>
-#### Sobre.
 
-    O projeto não está totalmente finalizado, gostaria de dizer que reuni completamente todas as informações que consegui (ou lembrava) sobre as aulas, em breve, adicionarei mais informações, trazendo a 0.4 da pasta Hello, World!, dês de já, obrigado.
+#### Sobre.
+O projeto não está totalmente finalizado, gostaria de dizer que reuni completamente todas as informações que consegui (ou lembrava) sobre as aulas, em breve, adicionarei mais informações, trazendo a 0.4 da pasta Hello, World!, dês de já, obrigado.
+
 <p align="center">──────────────</p>
+
 
 ### Autor
 
