@@ -13,6 +13,12 @@
     O projeto foi realizado pelo aluno e autor, João Lucas Delbianco Salomão - ADS.
 Venho por meio desse projeto, inicializar a minha "biblioteca virtual", onde irei postar TODAS as pastas na qual eu tenho guardado sobre o terceiro a quarto semestre de ads/eng soft (de julho à dezembro), espero que tudo o que eu tenha colocado aqui, traga a você, leitor, alguma fração de conhecimento.
 
+# :U+1F680: Tópicos relevantes
+- `Linguagem C`: Explicação e Atalho
+- `Exercícios`: Ponteiro, Função
+- `Bônus`: Trabalho AEP engenharia de software 4 semestre, Fundamentos de lógica, Fluxograma
+
+
 #### ![Imagem tela logar](<>)
 
 ### Andamento do projeto
