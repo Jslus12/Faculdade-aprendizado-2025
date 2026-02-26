@@ -1,0 +1,3 @@
+
+	O Teorema de De Morgan
+é um princípio fundamental da lógica booleana e eletrônica digital que estabelece regras para negar operações lógicas, permitindo simplificar expressões ao converter uma operação "OU" em "E" (e vice-versa) e invertendo os termos, essencial para o design e otimização de circuitos lógicos. Existem dois teoremas principais: o complemento de um produto (A.B)' é igual à soma dos complementos (A' + B'), e o complemento de uma soma (A+B)' é igual ao produto dos complementos (A' . B').

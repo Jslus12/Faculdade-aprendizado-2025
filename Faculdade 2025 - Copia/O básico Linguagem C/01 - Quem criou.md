@@ -1,0 +1,2 @@
+	Quem criou?
+[Dennis Ritchie] em 1972, nos Laboratórios Bell, com o objetivo principal de desenvolver o sistema operacional UNIX, tornando-o mais portátil e eficiente, evoluindo de uma linguagem anterior chamada [B]e influenciando muitas outras linguagens como [C++], [Java] e [C#].
