@@ -18,9 +18,6 @@ Venho por meio desse projeto, inicializar a minha "biblioteca virtual", onde ire
 - `Exercícios`: Ponteiro, Função
 - `Bônus`: Trabalho AEP engenharia de software 4 semestre, Fundamentos de lógica, Fluxograma
 
-#### ━━━━━━━━━━━━━━━━━━━━━━━━━━
-#### ![Imagem tela logar](<unicesumar.png>)
-#### ━━━━━━━━━━━━━━━━━━━━━━━━━━
 ### Andamento do projeto
 ![Logo github](https://img.shields.io/badge/github-repo-blue?logo=github)
 ![Status](https://img.shields.io/badge/status-finalizado-brightgreen)
