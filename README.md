@@ -1,7 +1,7 @@
 # Projeto_Faculdade 
 
 #### 
-<h1 align="center">Faculdade 2025</h1>
+<h1 align="center">>📘Faculdade 2025📘</h1>
 
 # :hammer: Objetivos do projeto
 - `Objetivo`: Guardar todo conhecimento adquirido ao longo de 2025;
@@ -22,6 +22,11 @@ Venho por meio desse projeto, inicializar a minha "biblioteca virtual", onde ire
 ![Logo github](https://img.shields.io/badge/github-repo-blue?logo=github)
 ![Status](https://img.shields.io/badge/status-finalizado-brightgreen)
 
+<p align="center">──────────────</p>
+#### Sobre.
+
+    O projeto não está totalmente finalizado, gostaria de dizer que reuni completamente todas as informações que consegui (ou lembrava) sobre as aulas, em breve, adicionarei mais informações, trazendo a 0.4 da pasta Hello, World!, dês de já, obrigado.
+<p align="center">──────────────</p>
 
 ### Autor
 
