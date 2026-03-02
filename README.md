@@ -1,7 +1,7 @@
 # Projeto_Faculdade 
 
 #### 
-<h1 align="center">>📘Faculdade 2025📘</h1>
+<h1 align="center">📘Faculdade 2025📘</h1>
 
 # :hammer: Objetivos do projeto
 - `Objetivo`: Guardar todo conhecimento adquirido ao longo de 2025;
@@ -35,3 +35,5 @@ O projeto não está totalmente finalizado, gostaria de dizer que reuni completa
 [João Lucas Delbianco](https://github.com/Jslus12)
 
 [LinkeDin](https://www.linkedin.com/in/jo%C3%A3o-d-ba44923b0/)
+
+![Gato](gato.gif)
